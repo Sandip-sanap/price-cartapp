@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sandip-sanap/pricecart/static/css/main.9b90c0c2.chunk.css",
+    "main.js": "/Sandip-sanap/pricecart/static/js/main.5ccd74de.chunk.js",
+    "main.js.map": "/Sandip-sanap/pricecart/static/js/main.5ccd74de.chunk.js.map",
+    "runtime-main.js": "/Sandip-sanap/pricecart/static/js/runtime-main.60c44fe8.js",
+    "runtime-main.js.map": "/Sandip-sanap/pricecart/static/js/runtime-main.60c44fe8.js.map",
+    "static/js/2.fd06b7c3.chunk.js": "/Sandip-sanap/pricecart/static/js/2.fd06b7c3.chunk.js",
+    "static/js/2.fd06b7c3.chunk.js.map": "/Sandip-sanap/pricecart/static/js/2.fd06b7c3.chunk.js.map",
+    "index.html": "/Sandip-sanap/pricecart/index.html",
+    "static/css/main.9b90c0c2.chunk.css.map": "/Sandip-sanap/pricecart/static/css/main.9b90c0c2.chunk.css.map",
+    "static/js/2.fd06b7c3.chunk.js.LICENSE.txt": "/Sandip-sanap/pricecart/static/js/2.fd06b7c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60c44fe8.js",
+    "static/js/2.fd06b7c3.chunk.js",
+    "static/css/main.9b90c0c2.chunk.css",
+    "static/js/main.5ccd74de.chunk.js"
+  ]
+}
